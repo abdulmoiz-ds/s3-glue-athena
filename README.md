@@ -61,3 +61,6 @@ Now search "Athena" in the search bar and click on "Launch Query Editor".
 ![Screenshot (621)](https://github.com/abdulmoiz-ds/s3-glue-athena/assets/74011754/0cde6917-3772-420b-96e1-99222fddcff6)
 
 Here you can do a query. You have to create a bucket where your queries will be saved.
+
+
+![Screenshot (622)](https://github.com/abdulmoiz-ds/s3-glue-athena/assets/74011754/ae014670-547c-4415-b41d-dfa546b858bf)
